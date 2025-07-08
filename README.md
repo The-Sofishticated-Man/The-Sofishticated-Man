@@ -27,7 +27,7 @@
   <h3>Data Management:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite" />
         </a>
       </p>
     </td>
