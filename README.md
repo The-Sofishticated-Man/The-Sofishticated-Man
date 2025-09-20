@@ -20,7 +20,7 @@
   <h3>Tools:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,jest,vim,npm,nginx" />
+          <img src="https://skillicons.dev/icons?i=git,github,docker,jest,neovim,npm,nginx" />
         </a>
       </p>
 
