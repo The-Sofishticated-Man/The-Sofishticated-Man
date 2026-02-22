@@ -6,28 +6,28 @@
       <h3>Languages:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,cs,cpp,bash,matlab" />
+          <img src="https://skillicons.dev/icons?i=py,ts,java" />
         </a>
       </p>
 
   <h3>Frameworks and Libraries:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,express,nodejs,redux,threejs,unity" />
+          <img src="https://skillicons.dev/icons?i=react,vue,tailwind,express,nodejs,redux" />
         </a>
       </p>
 
   <h3>Tools:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,jest,neovim,npm,nginx" />
+          <img src="https://skillicons.dev/icons?i=git,github,docker,jest,nginx" />
         </a>
       </p>
 
   <h3>Data Management:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite" />
+          <img src="https://skillicons.dev/icons?i=postgresql,redis,sqlite" />
         </a>
       </p>
     </td>
