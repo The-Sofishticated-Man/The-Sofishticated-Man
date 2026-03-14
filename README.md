@@ -1,6 +1,6 @@
 <h1 align="center">Oi there 👋, I'm Islam</h1>
 <h3 align="center">Fullstack development and some other stuff ig 🤷‍♂️</h3>
-<table>
+<table align="center">
   <tr>
     <td>
       <h3>Languages:</h3>
@@ -13,7 +13,7 @@
   <h3>Frameworks and Libraries:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,vue,tailwind,express,nodejs,redux" />
+          <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,express,nodejs,redux" />
         </a>
       </p>
 
@@ -27,7 +27,7 @@
   <h3>Data Management:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgresql,redis,sqlite" />
+          <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
         </a>
       </p>
     </td>
