@@ -14,6 +14,10 @@
       <p>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,express,redux" />
+        </a>
+      </p>
+      <p>
+        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=django,fastapi,qt,sklearn" />
         </a>
       </p>
