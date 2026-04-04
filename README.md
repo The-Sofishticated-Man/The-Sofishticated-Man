@@ -36,14 +36,13 @@
         </a>
       </p>
     </td>
-    <td style="vertical-align: top;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-sofishticated-man&layout=pie&theme=dark"
-        alt="Top Langs"
-        width="300"
-        height="400"
-      />
-    </td>
+   <td style="vertical-align: top;">
+    <img
+      src="profile/top-langs.svg" 
+      alt="Top Langs"
+      width="300"
+    />
+  </td>
   </tr>
 </table>
 <h3 align="center">you can reach me by:</h2>
