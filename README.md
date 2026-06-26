@@ -13,19 +13,19 @@
   <h3>Frameworks and Libraries:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,express,redux" />
+          <img src="https://skillicons.dev/icons?i=nextjs,vue,tailwind,express,redux" />
         </a>
       </p>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=django,fastapi,qt,sklearn" />
+          <img src="https://skillicons.dev/icons?i=django,fastapi,selenium,qt,sklearn" />
         </a>
       </p>
 
   <h3>Tools:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,aws,jest" />
+          <img src="https://skillicons.dev/icons?i=git,linux,docker,aws,jest" />
         </a>
       </p>
 
