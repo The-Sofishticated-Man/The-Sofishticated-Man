@@ -13,7 +13,7 @@
   <h3>Frameworks and Libraries:</h3>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nextjs,vue,tailwind,express,redux" />
+          <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,express,redux" />
         </a>
       </p>
       <p>
